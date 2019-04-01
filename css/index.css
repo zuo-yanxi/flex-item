@@ -4,7 +4,7 @@
 }
 .container{
 	width: 100%;
-	height: 3000px;
+	height: 10000px;
 	margin: 0 auto;
 	max-width: 722px;
 	min-width: 320px;
@@ -164,4 +164,156 @@
 }
 .nav_item .content a:hover{
 	background: #ff283d;
+}
+
+.banner ul{
+	display: flex;
+	flex-wrap: wrap;
+}
+.banner ul li{
+	width: 50%;
+}
+.banner ul li img{
+	width: 100%;
+}
+
+.ship{
+	margin-top: 40px;
+}
+
+.dizhi{
+	display: flex;
+	margin-top: 40px;
+}
+.dizhi a{
+	width: 20%;
+	font-size: 25px;
+	color: #000;
+	text-align: center;
+}
+.dizhi a p{
+	font-size: 30px;
+	color: #FF283D;
+	margin-bottom: 20px;
+}
+
+.dizhi a:nth-child(1){
+	color: #FF283D;
+}
+.dizhi a:hover{
+	color: #ff283d;
+}
+
+.sany{
+	margin-top: 50px;
+}
+.sany img{
+	width: 100%;
+}
+.sany p{
+	
+	margin: 30px auto;
+	font-size: 25px;
+	width: 90%;
+	height: 68px;
+	background: #cfd3d8;
+	text-align: center;
+	line-height: 68px;
+}
+.sany p:hover{
+	background: #ff283d;
+}
+.sany p a{
+	color: #fff;
+}
+
+
+.yuanc {
+	margin-top: 50px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;	
+}
+.yuanc a{	
+	width: 45%;
+	
+}
+
+.yuanc a img{
+	width: 100%;
+	margin-top: 20px;
+}
+.yuanc a p{
+	padding-left: 20px;
+	padding-top: 5px;	
+}
+.yuanc a p:nth-child(2){
+	
+	font-size: 20px;
+	padding-top: 20px;
+	color: #000;
+}
+.yuanc a p:nth-child(3){
+	color: #878787;
+	font-size:  15px;
+}
+.yuanc a p:hover{
+	color: #878787;
+}
+.yuanc ol{
+	margin: 30px auto;
+	font-size: 25px;
+	width: 90%;
+	height: 68px;
+	background: #cfd3d8;
+	text-align: center;
+	line-height: 68px;
+}
+.yuanc ol:hover{
+	background: #ff283d;
+}
+.yuanc ol a{
+	color: #fff;
+}
+
+
+.gengd{
+	position: relative;
+}
+.gengd img{
+	width: 100%;
+	margin-top: 30px;
+	
+}
+.gengd a{	
+	display: inline-block;
+	width: 50%;
+	height: 70px;
+	background: #cfd3d8;
+	text-align: center;
+	line-height: 70px;
+	color: #fff;
+	font-size: 25px;
+	position: absolute;
+	left: 23%;
+	bottom: 9%;		
+}
+.gengd a:hover{
+	background: rgba(255,0,0,0.5);
+}
+
+
+.mingx img{
+	margin-top: 80px;
+	width: 100%;
+}
+
+/*明星选择*/
+.xuanz{
+	margin-top: 30px;
+}
+.xuanz ul{
+	height: 1350px;
+	background: orange;
+	text-align: center;
 }
