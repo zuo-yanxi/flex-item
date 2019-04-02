@@ -17,5 +17,16 @@
     <LengthMark x="592" y="4623" color="16711680" length="170" direction="12"/>
     <LengthMark x="1131" y="5385" color="16711680" length="1351" direction="3"/>
     <ColorMark x="1208" y="6665" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="893" y="5757" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <LengthMark x="961" y="5637" color="16711680" length="110" direction="3"/>
+    <LengthMark x="916" y="5786" color="16711680" length="85" direction="3"/>
+    <ColorMark x="861" y="5922" color="16711680" offsetX="32" offsetY="20" defaultDirection="9" colorSystem="hex"/>
+    <LengthMark x="800" y="5997" color="16711680" length="76" direction="3"/>
+    <LengthMark x="851" y="5944" color="16711680" length="52" direction="3"/>
+    <LengthMark x="886" y="6074" color="16711680" length="26" direction="3"/>
+    <LengthMark x="910" y="6178" color="16711680" length="28" direction="3"/>
+    <LengthMark x="933" y="6282" color="16711680" length="56" direction="3"/>
+    <LengthMark x="909" y="6501" color="16711680" length="84" direction="3"/>
+    <ColorMark x="704" y="6483" color="16711680" offsetX="24" offsetY="5" defaultDirection="9" colorSystem="hex"/>
   </Marks>
 </MKM>
