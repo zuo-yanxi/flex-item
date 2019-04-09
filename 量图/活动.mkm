@@ -1,0 +1,13 @@
+<MKM version="2.0" imageFileUrl="file:///C:/Users/500-15/Desktop/flex-item/%e9%87%8f%e5%9b%be/%e6%b4%bb%e5%8a%a8.png">
+  <Marks>
+    <ColorMark x="795" y="645" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="560" y="681" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="560" y="644" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="774" y="362" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <LengthMark x="982" y="564" color="16711680" length="352" direction="3"/>
+    <LengthMark x="782" y="636" color="16711680" length="62" direction="3"/>
+    <LengthMark x="768" y="677" color="16711680" length="150" direction="12"/>
+    <LengthMark x="947" y="564" color="16711680" length="77" direction="3"/>
+    <LengthMark x="1060" y="828" color="16711680" length="30" direction="3"/>
+  </Marks>
+</MKM>
